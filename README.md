@@ -50,8 +50,7 @@ python step3_clip.py --node $node --task $task
 
 ### Citation
 
-If you find our work helpful, please cite our paper
-
+If you find our work helpful, please cite our paper.
 ```
 @article{ding2025concept,
   title={Concept-SAE: Active Causal Probing of Visual Model Behavior},
