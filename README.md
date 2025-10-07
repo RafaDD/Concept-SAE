@@ -2,7 +2,7 @@
   <h2><b>Concept-SAE: Active Causal Probing of Visual Model Behavior</b></h2>
   <h4><b>Jianrong Ding*, Muxi Chen*, Chenchen Zhao, Qiang Xu†</b></h4>
 
-![](https://img.shields.io/github/stars/RafaDD/Concept-SAE?style=social) 
+[![arXiv](https://img.shields.io/badge/arXiv-2509.22015-b31b1b.svg)](https://arxiv.org/abs/2509.22015) ![](https://img.shields.io/github/stars/RafaDD/Concept-SAE?style=social) 
 
 </div>
 <br>
@@ -46,4 +46,17 @@ python step1_clip.py --node $node --task $task
 python step2_clip.py --node $node --task $task
 
 python step3_clip.py --node $node --task $task
+```
+
+### Citation
+
+If you find our work helpful, please cite our paper
+
+```
+@article{ding2025concept,
+  title={Concept-SAE: Active Causal Probing of Visual Model Behavior},
+  author={Ding, Jianrong and Chen, Muxi and Zhao, Chenchen and Xu, Qiang},
+  journal={arXiv preprint arXiv:2509.22015},
+  year={2025}
+}
 ```
