@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b>Concept-SAE: Active Causal Probing of Visual Model Behavior</b></h2>
+  <h2><b>Concept-SAE: A Controllable and Invertible Concept Interface for Sparse Autoencoders</b></h2>
   <h4><b>Jianrong Ding*, Muxi Chen*, Chenchen Zhao, Qiang Xu†</b></h4>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.22015-b31b1b.svg)](https://arxiv.org/abs/2509.22015) ![](https://img.shields.io/github/stars/RafaDD/Concept-SAE?style=social) 
